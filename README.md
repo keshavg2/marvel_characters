@@ -10,5 +10,5 @@
 
 5. Run the migration command `prisma migrate dev`
 
-6. To initiate the local server, execute the command npm run dev.
+6. To initiate the local server, execute the command `npm run dev`.
 
